@@ -1,1 +1,1 @@
-# Machine-Learning-ECE-GY-6143-Project
+# Machine Learning (ECE-GY6143) Project
